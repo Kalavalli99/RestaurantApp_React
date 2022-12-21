@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kalavalli99/RestaurantApp_React/static/css/main.082e7761.css",
+    "main.js": "/Kalavalli99/RestaurantApp_React/static/js/main.68889579.js",
+    "static/js/787.aab8bd84.chunk.js": "/Kalavalli99/RestaurantApp_React/static/js/787.aab8bd84.chunk.js",
+    "index.html": "/Kalavalli99/RestaurantApp_React/index.html",
+    "main.082e7761.css.map": "/Kalavalli99/RestaurantApp_React/static/css/main.082e7761.css.map",
+    "main.68889579.js.map": "/Kalavalli99/RestaurantApp_React/static/js/main.68889579.js.map",
+    "787.aab8bd84.chunk.js.map": "/Kalavalli99/RestaurantApp_React/static/js/787.aab8bd84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082e7761.css",
+    "static/js/main.68889579.js"
+  ]
+}
