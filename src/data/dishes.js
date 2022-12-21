@@ -12,7 +12,7 @@ const DISHES = [
     {
         id: 1,
         name: 'BBQ Chicken Pizza',
-        image: 'public/asset/images/1.pizza',
+        image: 'public/asset/images/1.pizza.jpg',
         category: 'meal',
         label: '',
         price: '599',
