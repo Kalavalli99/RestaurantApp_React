@@ -2,7 +2,7 @@ const DISHES = [
     {
         id: 0,
         name: 'Ginger Burger',
-        image: 'asset/images/0burger1.jpg',
+        image: 'asset/images/0burger.jpg',
         category: 'meal',
         label: 'Hot',
         price: '199',
