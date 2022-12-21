@@ -1,5 +1,6 @@
 import React, {Fragment} from 'react';
 import {Card, Col, Container} from 'react-bootstrap';
+import image from '../../data/dishes';
 
 
 
