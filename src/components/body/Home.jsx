@@ -5,7 +5,7 @@ import React, {Component} from 'react';
         return (
             
             <div>
-                <h1>Home page</h1>
+                <img src='https://orders2.me/wp-content/uploads/2017/04/depositphotos_67487771_m2015.jpg' height='900px' width='1500px'></img>
             </div>
         )
     }
