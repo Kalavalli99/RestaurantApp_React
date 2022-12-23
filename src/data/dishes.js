@@ -2,7 +2,7 @@ const DISHES = [
     {
         id: 0,
         name: 'Ginger Burger',
-        image: 'https://images.unsplash.com/photo-1565299507177-b0ac66763828?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1922&q=80',
+        image: 'https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80',
         category: 'meal',
         label: 'Hot',
         price: '199',
@@ -12,7 +12,7 @@ const DISHES = [
     {
         id: 1,
         name: 'BBQ Chicken Pizza',
-        image: 'images/1.pizza.jpg',
+        image: 'https://images.jdmagicbox.com/comp/def_content/pizza_outlets/default-pizza-outlets-13.jpg',
         category: 'meal',
         label: '',
         price: '599',
@@ -22,7 +22,7 @@ const DISHES = [
     {
         id: 2,
         name: 'French Fries',
-        image: 'images/2fries.jpg',
+        image: 'https://c4.wallpaperflare.com/wallpaper/666/302/422/food-potato-french-fries-hd-wallpaper-preview.jpg',
         category: 'appetizer',
         label: 'New',
         price: '120',
@@ -32,7 +32,7 @@ const DISHES = [
     {
         id: 3,
         name: 'Cheese Cake',
-        image: 'images/3cake.jpg',
+        image: 'https://c4.wallpaperflare.com/wallpaper/423/302/384/fruit-cheesecake-cheese-cake-with-fruits-wallpaper-preview.jpg',
         category: 'dessert',
         label: '',
         price: '170',
