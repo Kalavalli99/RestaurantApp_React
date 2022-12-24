@@ -2,7 +2,7 @@ const DISHES = [
     {
         id: 0,
         name: 'Ginger Burger',
-        image: 'https://cdn.shopifycdn.net/s/files/1/0252/1792/5167/files/hamburger-with-vegetables_1024x1024.jpg?v=1624247285',
+        image: 'https://images.jdmagicbox.com/comp/mumbai/u9/011pxx11.xx11.190114212643.w5u9/catalogue/oh-my-burger-netaji-subhash-place-complex-pitampura-delhi-fast-food-zz4n8sshli.jpg',
         category: 'meal',
         label: 'Hot',
         price: '199',
