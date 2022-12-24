@@ -32,7 +32,7 @@ const DISHES = [
     {
         id: 3,
         name: 'Cheese Cake',
-        image: 'https://images.jdmagicbox.com/rep/b2b/gluten-free-cheese-cake/gluten-free-cheese-cake-9.jpg',
+        image: 'https://images.jdmagicbox.com/rep/b2b/3d-cheese-cake/3d-cheese-cake-6.jpg',
         category: 'dessert',
         label: 'Cold',
         price: '170',
