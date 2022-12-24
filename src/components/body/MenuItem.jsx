@@ -13,7 +13,7 @@ const MenuItem = props => {
         <Col>
  
             <Card style={{ width: '25rem', marginTop: '15px'}}>
-      <Card.Img variant="top" src={props.dish.image} style={{ cursor:"pointer" }} onClick={ props.DishSelect} width="300px" height="300px"/>
+      <Card.Img variant="top" src={props.dish.image} style={{ cursor:"pointer" }} onClick={ props.DishSelect} width="350px" height="350px"/>
       <Card.Body>
         <Card.Title  >{props.dish.name}</Card.Title>
         <Card.Text>
