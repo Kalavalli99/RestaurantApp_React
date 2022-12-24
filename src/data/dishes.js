@@ -22,7 +22,7 @@ const DISHES = [
     {
         id: 2,
         name: 'French Fries',
-        image: 'https://c4.wallpaperflare.com/wallpaper/666/302/422/food-potato-french-fries-hd-wallpaper-preview.jpg',
+        image: 'https://images.jdmagicbox.com/comp/mumbai/b2/022pxx22.xx22.150125181517.t7b2/catalogue/relish-fast-food-centre-mulund-west-mumbai-snacks-bar-l2lydpsfsq.jpg',
         category: 'appetizer',
         label: 'Hot',
         price: '120',
@@ -32,7 +32,7 @@ const DISHES = [
     {
         id: 3,
         name: 'Cheese Cake',
-        image: 'https://c4.wallpaperflare.com/wallpaper/423/302/384/fruit-cheesecake-cheese-cake-with-fruits-wallpaper-preview.jpg',
+        image: 'https://images.jdmagicbox.com/rep/b2b/gluten-free-cheese-cake/gluten-free-cheese-cake-9.jpg',
         category: 'dessert',
         label: 'Cold',
         price: '170',
