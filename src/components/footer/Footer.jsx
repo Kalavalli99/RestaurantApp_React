@@ -22,4 +22,4 @@ const Footer = () =>{
 
 export default Footer;
 
-//footer component
+//footer component git checking
